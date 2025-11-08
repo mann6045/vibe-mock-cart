@@ -106,10 +106,6 @@ npm install better-sqlite3
 	•	Checkout form works and shows receipt
 	•	Responsive layout verified
 
-📸 Screenshots
-<img width="1710" height="990" alt="Screenshot 2025-11-08 at 2 28 46 PM" src="https://github.com/user-attachments/assets/893ad51a-1c52-432c-8085-453a46400c97" />
-<img width="1710" height="992" alt="Screenshot 2025-11-08 at 2 29 44 PM" src="https://github.com/user-attachments/assets/571ee20a-7661-4421-8261-4fb98c7461ed" />
-
 🤝 Contributing
 
 Pull requests are welcome!
@@ -122,10 +118,6 @@ If you’d like to extend functionality (e.g., add users, authentication, produc
 PATEL MANKUMAR
 Full-Stack Developer
 📧 mp0668693gmail.com￼
-
-🪪 License
-
-This project is open-source and available under the MIT License.
 
 ⸻
 
